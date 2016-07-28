@@ -10,3 +10,4 @@ echo  > Displays info of user and OS
 echo.
 echo > atc
 echo  > Shows the attachments of the CMD.
+call Terminal.bat
